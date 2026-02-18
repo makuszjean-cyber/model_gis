@@ -2,7 +2,7 @@
 # Local: path: D:\GIS\Recherche\dataset_palmiers
 # Colab (Google Drive): path: /content/drive/MyDrive/dataset_palmiers
 
-path: D:\GIS\Recherche\dataset_palmiers
+path: D:\IMAGE_ENTRAINEMENT\model_gis
 train: images/train
 val: images/val
 
