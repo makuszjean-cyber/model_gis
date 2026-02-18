@@ -1,0 +1,10 @@
+# Configuration YOLO - Détection palmiers + maisons
+# Local: path: D:\GIS\Recherche\dataset_palmiers
+# Colab (Google Drive): path: /content/drive/MyDrive/dataset_palmiers
+
+path: D:\GIS\Recherche\dataset_palmiers
+train: images/train
+val: images/val
+
+nc: 2
+names: ['palmier', 'maison']
