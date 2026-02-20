@@ -6,5 +6,5 @@ path: D:\IMAGE_ENTRAINEMENT\model_gis
 train: images/train
 val: images/val
 
-nc: 2
-names: ['palmier', 'maison']
+nc: 3
+names: ['palmier', 'maison','other_tree']
